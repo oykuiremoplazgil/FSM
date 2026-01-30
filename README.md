@@ -13,7 +13,7 @@ Veri Kalıcılığı: Tasarlanan modelleri insan tarafından okunabilir metin (.
 
 Gelişmiş Günlükleme: Tüm işlem geçmişini ve hataları Logger yapısı ile harici dosyalara kaydetme.
 
-### Project Overview**
+### Project Overview
 This project is a comprehensive Finite State Machine (FSM) design and simulation tool developed in Java for the 1st-year Introduction to Programming 2 course. It allows users to define, manage, and test their own automaton models via a terminal.
 
 ## Key Features:
